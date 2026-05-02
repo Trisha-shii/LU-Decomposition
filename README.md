@@ -61,7 +61,7 @@ print(X)
 ```
 
 ## Output:
-![lu decomposition]()
+
 
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/3378b0ec-96f9-49cb-96c2-80b3a4d1e9a5" />
 <img width="1918" height="765" alt="image" src="https://github.com/user-attachments/assets/75e5393a-c6ec-4383-8028-88cf874a7972" />
